@@ -1,0 +1,51 @@
+Feature,Importance
+Sales_Amount,0.43048364
+Units,0.35437316
+recency,0.10850416
+frequency,0.024102395
+Sales_Amount_HANKOOK,0.016613185
+Units_NATIONAL,0.014985227
+age,0.010179843
+Sales_Amount_Customer-Billed,0.009288517
+Units_RLT,0.009246365
+Units_Customer-Billed,0.0028304846
+Units_is_win_NO,0.0025834218
+Units_is_ev_NO,0.0025805233
+Units_is_ev_-,0.0020591465
+units_per_transaction,0.0020584536
+Sales_Amount_PSUV,0.0020144614
+value,0.0018567175
+Sales_Amount_TBC NEUTRAL,0.001645078
+avg_sale_value,0.0015882552
+Units_MICHELIN,0.0013715224
+Units_PASS,0.0011710853
+Units_PSUV,0.0004643225
+Sales_Amount_PASS,0.0
+Sales_Amount_is_win_NO,0.0
+Sales_Amount_is_ev_-,0.0
+sales,0.0
+units,0.0
+Sales_Amount_is_ev_NO,0.0
+Sales_Amount_RLT,0.0
+Units_HANKOOK,0.0
+Sales_Amount_SAILUN,0.0
+Units_TRLR,0.0
+Sales_Amount_BFGOODRICH,0.0
+Sales_Amount_SUMITOMO,0.0
+Sales_Amount_MICHELIN,0.0
+Units_SAILUN,0.0
+Units_BFGOODRICH,0.0
+Units_SUMITOMO,0.0
+Sales_Amount_National Acct,0.0
+Units_COOPER,0.0
+Sales_Amount_TRLR,0.0
+Sales_Amount_UNIROYAL,0.0
+Sales_Amount_CONTINENTAL,0.0
+Sales_Amount_NITTO,0.0
+Sales_Amount_COOPER,0.0
+Units_National Acct,0.0
+Units_CONTINENTAL,0.0
+Sales_Amount_MRT,0.0
+Sales_Amount_CARLISLE,0.0
+Units_POWER KING,0.0
+Sales_Amount_PRINX,0.0
